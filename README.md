@@ -1,3 +1,4 @@
 # vault
 
-Page: https://fekko.github.io/vault/
+## Theme
+https://github.com/mmistakes/minimal-mistakes
