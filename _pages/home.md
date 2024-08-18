@@ -12,7 +12,7 @@ sidebar:
   - title: "Role"
     image: /assets/images/bio-photo.jpg
     image_alt: "logo"
-    text: "Designer, Front-End Developer"
+    text: "stuff"
   - title: "Responsibilities"
     text: "text and stuff"
 gallery:
